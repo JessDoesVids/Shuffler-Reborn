@@ -20,7 +20,7 @@ This code uses the Load Last Save feature found in Mesen, thus is currently only
 1. Check the PATH on your computer. If Python is not installed, reinstall Python via the installer, checking the box "Install Python to PATH".
 2. Add the Mesen emulator to PATH.
 3. Open the Python code with a basic text editor like Notepad, and change the filepath of the ROMs to where your own ROMs are, as well as the filepath of your Mesen emulator.
-4. You're done! To run the code, open the command prompt at the directory where your ROMs are and enter "python shuffler_mesen.py"!
+4. You're done! To run the code, open the command prompt at the directory where your code is saved and enter "python shuffler_mesen.py"!
 
 ## Customization
 **Consistent starts**
