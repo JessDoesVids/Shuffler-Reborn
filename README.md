@@ -5,11 +5,7 @@ A tool to let you shuffle between different games every few seconds.
 Shuffler Reborn is a program that lets you shuffle between 5 games at random intervals and in random order, allowing you to progress all games in the most chaotic ways imaginable. The project is inspired by **DougDoug's Shufflemania**.
 
 ## Compatibility
-This code uses the Load Last Save feature found in Mesen, thus is currently only accepted in Mesen 0.9.9. However, versions for other console games are considered, including:
-- Mesen S (SNES/GB/GBC)
-- Mesen 2.0 (NES/SNES/GB/GBC/MS)
-- Project64 (N64)
-- Dolphin (GC/Wii)
+This code uses the Load Last Save feature found in Mesen, thus is currently only accepted in Mesen 0.9.9.
 
 ## Prerequisites
 - Python
